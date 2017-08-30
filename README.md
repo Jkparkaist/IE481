@@ -8,4 +8,3 @@
 
 ## Code Examples:
 1.Probability Review [a link](https://nbviewer.jupyter.org/github/Jkparkaist/IE481/blob/master/Codes/L1_probabilityDistributions.ipynb)
-
