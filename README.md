@@ -8,7 +8,7 @@ L1_Probability Reveiw [here](Lectures/L1_ProbabilityReview.pdf)
 L2_Fundamental of BayesianStatistics [here](Lectures/L2_FundamentalOfBayesianStatistics.pdf)
 
 
-L3_Conjugat eModels [here](Lectures/L3_ConjugateModels.pdf)
+L3_Conjugate eModels [here](Lectures/L3_ConjugateModels.pdf)
 
 ## Code Examples:
 L1_Probability Review [a link](https://nbviewer.jupyter.org/github/Jkparkaist/IE481/blob/master/Codes/L1_probabilityDistributions.ipynb)
