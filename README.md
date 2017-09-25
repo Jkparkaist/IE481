@@ -11,7 +11,7 @@ L3_Conjugate Models [here](Lectures/L3_ConjugateModels.pdf)
 
 L4_Hierachical Models [here](Lectures/L4_HierachicalModels.pdf)
 
-
+L5_Model Checking [here](Lectures/L5_ModelChecking.pdf)
 
 ## Code Examples:
 L1_Probability Review [a link](https://nbviewer.jupyter.org/github/Jkparkaist/IE481/blob/master/Codes/L1_probabilityDistributions.ipynb)
