@@ -17,3 +17,6 @@ L4_Hierachical Models [here](Lectures/L4_HierachicalModels.pdf)
 L1_Probability Review [a link](https://nbviewer.jupyter.org/github/Jkparkaist/IE481/blob/master/Codes/L1_probabilityDistributions.ipynb)
 
 L2_Fundamental of BayesianStatistics [a link](https://nbviewer.jupyter.org/github/Jkparkaist/IE481/blob/master/Codes/L2_FundamentalOfBayesianStatistics.ipynb)
+
+To calculate credible region, refer to the following python codes [a link]
+(https://nbviewer.jupyter.org/github/Jkparkaist/IE481/blob/master/Codes/L2_UniformPrior_vs_InformativePrior.ipynb)
