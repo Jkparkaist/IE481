@@ -15,6 +15,8 @@ L5_Model Checking [here](Lectures/L5_ModelChecking.pdf)
 
 L6_Application of Bayesian Statisitcs [here](Lectures/L6_ApplicationofBayesianStatistics.pdf)
 
+L7_Computational Bayesian Statisitcs [here](Lectures/L7_ComputationalBayesianStatistics.pdf)
+
 ## Code Examples:
 L1_Probability Review [a link](https://nbviewer.jupyter.org/github/Jkparkaist/IE481/blob/master/Codes/L1_probabilityDistributions.ipynb)
 
@@ -22,3 +24,5 @@ L2_Fundamental of BayesianStatistics [a link](https://nbviewer.jupyter.org/githu
 
 To calculate credible region, refer to the following python codes [a link]
 (https://nbviewer.jupyter.org/github/Jkparkaist/IE481/blob/master/Codes/L2_UniformPrior_vs_InformativePrior.ipynb)
+
+L7_Computational Bayesian Statistics [a link](https://nbviewer.jupyter.org/github/Jkparkaist/IE481/blob/master/Codes/L7_ComputationalBayesianStatistics.ipynb)
