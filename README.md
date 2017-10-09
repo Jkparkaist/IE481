@@ -22,7 +22,7 @@ L1_Probability Review [a link](https://nbviewer.jupyter.org/github/Jkparkaist/IE
 
 L2_Fundamental of BayesianStatistics [a link](https://nbviewer.jupyter.org/github/Jkparkaist/IE481/blob/master/Codes/L2_FundamentalOfBayesianStatistics.ipynb)
 
-To calculate credible region, refer to the following python codes [a link]
+L2_UniformPrior vs InformativePrior [a link]
 (https://nbviewer.jupyter.org/github/Jkparkaist/IE481/blob/master/Codes/L2_UniformPrior_vs_InformativePrior.ipynb)
 
 L7_Computational Bayesian Statistics [a link](https://nbviewer.jupyter.org/github/Jkparkaist/IE481/blob/master/Codes/L7_ComputationalBayesianStatistics.ipynb)
