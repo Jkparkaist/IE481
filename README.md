@@ -27,3 +27,5 @@ L2_Fundamental of BayesianStatistics [a link](https://nbviewer.jupyter.org/githu
 L2_UniformPrior vs InformativePrior [a link](https://nbviewer.jupyter.org/github/Jkparkaist/IE481/blob/master/Codes/L2_UniformPrior_vs_InformativePrior.ipynb)
 
 L7_Computational Bayesian Statistics [a link](https://nbviewer.jupyter.org/github/Jkparkaist/IE481/blob/master/Codes/L7_ComputationalBayesianStatistics.ipynb)
+
+L8_Machine Learning Regression [a link](https://nbviewer.jupyter.org/github/Jkparkaist/IE481/blob/master/Codes/L8_MachineLearningRegression.ipynb)
