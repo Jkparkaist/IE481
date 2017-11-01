@@ -19,6 +19,8 @@ L7_Computational Bayesian Statisitcs [here](Lectures/L7_ComputationalBayesianSta
 
 L8_Machine Learning (Regression) [here](Lectures/L8_MachineLearningRegression.pdf)
 
+L9_Machine Learning (Classification) [here](Lectures/L9_MachineLearningClassification.pdf)
+
 ## Code Examples:
 L1_Probability Review [a link](https://nbviewer.jupyter.org/github/Jkparkaist/IE481/blob/master/Codes/L1_probabilityDistributions.ipynb)
 
