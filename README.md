@@ -21,6 +21,8 @@ L8_Machine Learning (Regression) [here](Lectures/L8_MachineLearningRegression.pd
 
 L9_Machine Learning (Classification) [here](Lectures/L9_MachineLearningClassification.pdf)
 
+L10_BayesianNetwork [here](Lectures/L9_BayesianNetwork.pdf)
+
 ## Code Examples:
 L1_Probability Review [a link](https://nbviewer.jupyter.org/github/Jkparkaist/IE481/blob/master/Codes/L1_probabilityDistributions.ipynb)
 
