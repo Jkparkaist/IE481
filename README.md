@@ -23,6 +23,10 @@ L9_Machine Learning (Classification) [here](Lectures/L9_MachineLearningClassific
 
 L10_BayesianNetwork [here](Lectures/L10_BayesianNetwork.pdf)
 
+L11_Machine Learning (Influetial Diagram) [here](Lectures/L11_InfluentialDiagram.pdf)
+
+L12_Bandit Problem [here](Lectures/L12_BanditProblem.pdf)
+
 ## Code Examples:
 L1_Probability Review [a link](https://nbviewer.jupyter.org/github/Jkparkaist/IE481/blob/master/Codes/L1_probabilityDistributions.ipynb)
 
