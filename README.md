@@ -33,7 +33,7 @@ L14_Markov Decision Process(Dynamic Programming) [here](Lectures/L14_MarkovDecis
 
 L15_Reinforcement Learning(MonteCarlo) [here](Lectures/L15_ReinforcementLearning(MonteCarlo).pdf)
 
-L15_L16_Reinforcement Learning(TemporalDifference) [here](Lectures/L16_ReinforcementLearning(TemporalDifference).pdf)
+L16_Reinforcement Learning(TemporalDifference) [here](Lectures/L16_ReinforcementLearning(TemporalDifference).pdf)
 
 ## Code Examples:
 L1_Probability Review [a link](https://nbviewer.jupyter.org/github/Jkparkaist/IE481/blob/master/Codes/L1_probabilityDistributions.ipynb)
