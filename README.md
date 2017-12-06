@@ -35,6 +35,9 @@ L15_Reinforcement Learning(MonteCarlo) [here](Lectures/L15_ReinforcementLearning
 
 L16_Reinforcement Learning(TemporalDifference) [here](Lectures/L16_ReinforcementLearning(TemporalDifference).pdf)
 
+L17 Reinforcement Learning(Extensions) [a link](https://nbviewer.jupyter.org/github/Jkparkaist/IE481/blob/master/Codes/L17 
+
+
 ## Code Examples:
 L1_Probability Review [a link](https://nbviewer.jupyter.org/github/Jkparkaist/IE481/blob/master/Codes/L1_probabilityDistributions.ipynb)
 
