@@ -37,6 +37,10 @@ L16_Reinforcement Learning(TemporalDifference) [here](Lectures/L16_Reinforcement
 
 L17_Reinforcement Learning(Extensions) [here](Lectures/L17_ReinforcementLearning(Extensions).pdf)
 
+L18_Final Exam Review [here](Lectures/L18_FinalExamReview.pdf)
+
+
+
 ## Code Examples:
 L1_Probability Review [a link](https://nbviewer.jupyter.org/github/Jkparkaist/IE481/blob/master/Codes/L1_probabilityDistributions.ipynb)
 
